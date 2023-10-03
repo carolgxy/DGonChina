@@ -19,4 +19,11 @@ mobile networks offers deeper insight and perceive its future dimensional nature
 embracing this paradigm shift, we can retain a wealth of knowledge about urban
 dynamics and pave the way for more effective urban management.
 
-## Get Start
+## Setup
+`DG_on_China.yaml` is recommend to setup the python 3.7 environment.
+
+## Running
+The code is organized into 3 section in JupyterNotebook. 
+- **Section 1 "Initialization"** Initializes some variables that must be run.
+- **Section 2 "Training"** It will complete the training of the DG model. the relevant data has be cleaned and stored in the `data` folder, and the training results will be saved in the `result` folder.
+- **Section 3 "Prediction"** It is to make predictions using the trained model. Note that the author has uploaded a trained model, so you can directly run the code in the section 3 to see the prediction results.
