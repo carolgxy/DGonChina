@@ -24,6 +24,6 @@ dynamics and pave the way for more effective urban management.
 
 ## Running
 The code is organized into 3 section in JupyterNotebook. 
-- **Section 1 "Initialization"** Initializes some variables that must be run.
-- **Section 2 "Training"** It will complete the training of the DG model. the relevant data has be cleaned and stored in the `data` folder, and the training results will be saved in the `result` folder.
-- **Section 3 "Prediction"** It is to make predictions using the trained model. Note that the author has uploaded a trained model, so you can directly run the code in the section 3 to see the prediction results.
+- **Section 1 "Initialization"** ：Initializes some variables that must be run.
+- **Section 2 "Training"** ：It will complete the training of the DG model. the relevant data has be cleaned and stored in the `data` folder, and the training results will be saved in the `result` folder.
+- **Section 3 "Prediction"** ：It is to make predictions using the trained model. Note that the author has uploaded a trained model, so you can directly run the code in the section 3 to see the prediction results.
